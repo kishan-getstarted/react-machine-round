@@ -1,9 +1,7 @@
-import React from "react";
-import ReactDOM from "react-dom/client";
-function App() {
+const Chapter1 = () => {
     return (
-        <>
-          <header
+        <div>
+            <header
             style={{
               height: "60px",
               display: "flex",
@@ -55,9 +53,8 @@ function App() {
           >
             Footer
           </footer>
-        </>
-      );
-}
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<App />);
+        </div>
+    );
+};
 
+export default Chapter1;

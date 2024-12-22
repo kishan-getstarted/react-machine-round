@@ -1,7 +1,7 @@
 # react-machine-round
 1. Build a Basic HTML Page: Create a basic HTML page that includes a header, navigation menu, main content section, and a footer.
 
-Responsive Navigation Menu: Implement a responsive navigation menu that collapses into a hamburger menu on smaller screens using HTML, CSS, and JavaScript/jQuery.
+2. Responsive Navigation Menu: Implement a responsive navigation menu that collapses into a hamburger menu on smaller screens using HTML, CSS, and JavaScript/jQuery.
 
 JavaScript Calculator: Build a simple calculator using HTML, CSS, and JavaScript that can perform basic arithmetic operations (addition, subtraction, multiplication, division).
 
